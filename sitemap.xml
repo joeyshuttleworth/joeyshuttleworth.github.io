@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.georgeshuttleworthltd.co.uk/</loc>
+  <lastmod>2014-05-02T23:03:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>http://www.georgeshuttleworthltd.co.uk/index.html</loc>
+  <lastmod>2014-05-02T23:03:50+00:00</lastmod>
+  <priority>0.2</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.georgeshuttleworthltd.co.uk/Services.html</loc>
+  <lastmod>2014-05-02T23:03:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://www.georgeshuttleworthltd.co.uk/Projects.html</loc>
+  <lastmod>2014-05-02T23:03:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://www.georgeshuttleworthltd.co.uk/contact.html</loc>
+  <lastmod>2014-05-02T23:03:50+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>
